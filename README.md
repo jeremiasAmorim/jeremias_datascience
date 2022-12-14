@@ -21,7 +21,7 @@ Meu objetivo é, com uma visão analítica, mapear e extrair conhecimento dos da
 ## Projetos:
 
 
-* **:** 
+* **Análise de Dados Airbnb-New York:** (https://bityli.com/g3AZZ)
 * **:** 
 * **:** 
 * **:** 
